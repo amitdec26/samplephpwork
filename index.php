@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>DevOps PHP project</h1>
+<h1>DevOps PHP mgmr project</h1>
 
 <?php
-echo "version 1.0";
+echo "version 2.0";
 ?>
 
 </body>
